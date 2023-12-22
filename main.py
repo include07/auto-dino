@@ -1,7 +1,7 @@
 import pyautogui as pg #importing the PyAutoGUI package
 import time #time is part of the default Python installation
 pg.FAILSAFE = True
-
+# test
 time.sleep(5)
 pg.press('space')
 while True:
